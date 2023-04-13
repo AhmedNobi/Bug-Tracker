@@ -1,6 +1,6 @@
 # Bug-Tracker
 
-This is a simple command-line program written in C++ that allows users to manage bugs and tracj them. The program can perform the following tasks:
+This is a simple command-line program written in C++ that allows users to manage bugs and track them. The program can perform the following tasks:
 
 1. Add bug
 2. Update bug status
